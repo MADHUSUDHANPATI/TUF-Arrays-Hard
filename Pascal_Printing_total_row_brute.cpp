@@ -7,7 +7,7 @@ int Each_Number(int n, int r) {
     for( int i=0;i<r; i++) {
 
         res= res *(n-i);
-        res= res/(i+1);
+        res = res/(i+1);
     }
     return res;
 

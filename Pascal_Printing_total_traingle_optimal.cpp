@@ -22,7 +22,7 @@ void Pascal_Printing_total_traingle_optimal( int n) {
 int main() {
 
     int n;
-    cin>> n;
+    cin>> n ;
 
     Pascal_Printing_total_traingle_optimal(n);
 }

@@ -9,7 +9,7 @@ void Pascal_Printing_total_row_optimal(int n) {
 
         res = res *(n-i);
         res= res/ i;
-        cout << res << " ";
+        cout << res <<  " ";
     }
 }
 int main() {
